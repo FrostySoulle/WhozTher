@@ -1,14 +1,16 @@
 {
+  "type": "module",
   "name": "codelyon",
   "version": "1.0.0",
   "description": "nothin just checkin",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Frosty",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
   }
 }
